@@ -1,11 +1,6 @@
 import java.net.HttpURLConnection;
 import java.net.URL;
-import java.net.URLConnection;
 import java.util.Scanner;
-
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-import java.io.OutputStream;
 
 public class URLConnectionExample {
     public static void main(String[] argv) {
